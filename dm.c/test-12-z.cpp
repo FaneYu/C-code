@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+	printf("÷‹∫„”Ó «2b\n");
+	
+	return 0;
+}
