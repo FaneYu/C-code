@@ -1,0 +1,3 @@
+﻿  text.c
+B:\c语言\c - code - 2023\text-12-6\text-12-6\text.c(115,51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  text-12-6.vcxproj -> B:\c语言\c - code - 2023\text-12-6\Debug\text-12-6.exe
